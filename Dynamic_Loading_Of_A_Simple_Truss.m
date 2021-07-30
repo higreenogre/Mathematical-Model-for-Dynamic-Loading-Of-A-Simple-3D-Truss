@@ -1,4 +1,4 @@
-%                       Submitted By George Henri T20CE011 
+%                       Submitted By George Henri
 
 % 3D truss program Mini Project CE 555                                                           
 
